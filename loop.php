@@ -19,6 +19,8 @@
 		console.log('This is new changes!');
 
 		console.log('Changes from another folder');
+
+		console.log('Clone floder changes!');
 	</script>
 </head>
 <body>
