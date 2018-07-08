@@ -15,6 +15,8 @@
 		for(var i = 0; i < arrayKeys.length; i++){
 			console.log(newArray[arrayKeys[i]]);
 		}
+
+		console.log('This is new changes!');
 	</script>
 </head>
 <body>
