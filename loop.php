@@ -17,6 +17,8 @@
 		}
 
 		console.log('This is new changes!');
+
+		console.log('Changes from another folder');
 	</script>
 </head>
 <body>
