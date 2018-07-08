@@ -20,7 +20,10 @@
 
 		console.log('Changes from another folder');
 
+
 		console.log('Clone floder changes!');
+
+		console.log('This is main folder');
 	</script>
 </head>
 <body>
